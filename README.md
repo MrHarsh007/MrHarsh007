@@ -4,8 +4,9 @@
 - 🔭 I’m currently working on [CSE Learning Hub](https://bit.ly/CseLearningHub)
 
 - 🌱 I’m currently learning **Flutter , GitHub**
-- <img src="https://github.com/MrHarsh007/MrHarsh007/assets/74703957/abee779c-a278-4be4-bb05-18c5c7760bd8" style="height:20 width:20"/>
 
+- ⚡ Internship **Currently I am Pursuing my Flutter Developer Internship at SPIKEPOINT INFOTECH, Gandhinagar**
+   
 - 👨‍💻 All of my projects are available at [harshporwal.me](harshporwal.me)
 
 - 📫 How to reach me **Porwalharsh007@gmail.com**
