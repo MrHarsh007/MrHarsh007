@@ -4,6 +4,9 @@
 - 🔭 I’m currently working on [CSE Learning Hub](https://bit.ly/CseLearningHub)
 
 - 🌱 I’m currently learning **Flutter , GitHub**
+- 
+- ![image](https://github.com/MrHarsh007/MrHarsh007/assets/74703957/abee779c-a278-4be4-bb05-18c5c7760bd8)
+ I’m currently learning **Flutter , GitHub**
 
 - 👨‍💻 All of my projects are available at [harshporwal.me](harshporwal.me)
 
