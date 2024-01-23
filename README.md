@@ -7,7 +7,7 @@
 
 - ⚡ Internship **Currently I am Pursuing my Flutter Developer Internship at SPIKEPOINT INFOTECH, Gandhinagar**
    
-- 👨‍💻 All of my projects are available at [harshporwal.tech](harshporwal.tech)
+- 👨‍💻 All of my projects are available at [harshporwal.tech](https://harshporwal.tech/)
 
 - 📫 How to reach me **Porwalharsh007@gmail.com**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrharsh007&label=Profile%20views&color=0e75b6&style=flat" alt="mrharsh007" /> </p>
